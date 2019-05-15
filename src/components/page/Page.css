@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+.right{
+    margin: 0%;     
+    padding: 10%;
+    width: 50%;
+    height: 100%;
+}

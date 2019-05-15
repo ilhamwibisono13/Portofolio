@@ -1,0 +1,89 @@
+@import '~antd/dist/antd.css';
+/*Home*/
+.background{
+   width: 55%;
+   height: 55%;
+   float: right;
+}
+.head{
+   font-size: 32px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.head2{
+   font-size: 54px;
+   font-family: SF Pro Display;
+   font-style: initial;
+   margin-top: -12%;
+   font-kerning: auto;
+}
+.head3{
+   font-size: 20px;
+   font-family: SF Pro Display ;
+   font-style: initial;
+   margin-top: -15%;
+   font-kerning: auto;
+}
+.showbtn{
+   width: 150px;
+   height: 40px;
+   font-size: 20px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color:rgb(2, 107, 84);
+   color: white;
+}
+/*EndHome*/
+
+/*Contact*/
+.leftbackground{
+   width: 25%;
+   height: 100%;
+   float: left;
+}
+.rightbackground{
+   width: 25%;
+   height: 100%;
+   float: right;
+}
+.centertext{
+   float: left;
+   width: 50%;
+   height: 100%;
+}
+
+.backgroundkontakleft{
+   float: left;
+   width: 100%;
+   height: 100%;
+   margin-top: 25%;
+  
+}
+
+.kontaktext{
+   text-align: center;
+}
+.text1{
+   font-size: 30px;
+   margin-top: 15%;
+}
+.text2{
+   font-size: 50px;
+   margin-top: -8%;
+   font-family: sans-serif;
+}
+
+.text3{
+   font-size: 15px;
+   margin-top: -8%;
+   font-family: Open Sans;
+}
+
+.backgroundkontakright{
+   float: right;
+   width: 100%;
+   height: 100%;
+   margin-top: 25%;
+}
+
+
+
+/*EndContact*/
